@@ -1,0 +1,1 @@
+A full-stack MERN web application that enables users to list, browse, and book properties for stays or property rentals. The platform provides a marketplace for hosts to showcase their properties and for customers to explore available accommodations with rich details.
